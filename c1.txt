@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 bapatla
 chirala
 vizag
+=======
+hello
+hi
+welcome 
+>>>>>>> 77ecb96 (commited)
